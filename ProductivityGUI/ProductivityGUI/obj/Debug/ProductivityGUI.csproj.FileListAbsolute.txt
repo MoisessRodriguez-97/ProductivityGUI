@@ -1,0 +1,11 @@
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\bin\Debug\ProductivityGUI.exe.config
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\bin\Debug\ProductivityGUI.exe
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\bin\Debug\ProductivityGUI.pdb
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.csproj.AssemblyReference.cache
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.Properties.Resources.resources
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.csproj.GenerateResource.cache
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.exe
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.pdb
+C:\Users\moise\source\repos\ProductivityGUI\ProductivityGUI\obj\Debug\ProductivityGUI.DailyStatusReportForm.resources
